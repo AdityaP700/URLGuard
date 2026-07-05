@@ -1,4 +1,4 @@
-# PrivacyGuard
+# URLGuard
 
 **On-device ML-powered phishing defense with privacy-first P2P threat sharing and homograph detection.**
 
@@ -19,7 +19,7 @@ Ranked **13th out of 925 submissions** at the Amplicode Hackathon and **2nd Plac
 
 ## Overview
 
-PrivacyGuard is a Chrome extension that protects users from phishing attacks and malicious websites using a combination of on-device machine learning, heuristic analysis, and Unicode homograph detection. Built with a privacy-first architecture — all URL analysis happens locally in the browser; no data is transmitted to any external server.
+URLGuard is a Chrome extension that protects users from phishing attacks and malicious websites using a combination of on-device machine learning, heuristic analysis, and Unicode homograph detection. Built with a privacy-first architecture — all URL analysis happens locally in the browser; no data is transmitted to any external server.
 
 ---
 
